@@ -1,0 +1,1 @@
+To run simulink models, run the function main in the folder NonlinearBoatModel and set the initial velocity between 6 and 8.
